@@ -1,0 +1,1 @@
+docker run --network=SampleNET -p 8080:8080 -p 8787:8787 --env-file=.env oaut2-ords-client

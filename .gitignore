@@ -1,0 +1,69 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+# Env variables. Can content secrets
+.env
+.env_oraweb
+setenv
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+nbactions.xml
+
+### Eclipse ###
+
+# External tool builders
+.externalToolBuilders/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# PyDev specific (Python IDE for Eclipse)
+*.pydevproject
+
+# CDT-specific (C/C++ Development Tooling)
+.cproject
+
+# PDT-specific (PHP Development Tools)
+.buildpath
+
+# sbteclipse plugin
+.target
+
+# Tern plugin
+.tern-project
+
+# TeXlipse plugin
+.texlipse
+
+# Code Recommenders
+.recommenders/
+
+# http://start.spring.io/
+mvnw.cmd
+mvnw
+.mvn/
+
+# Env var
+.environment
+
+# IDE console output
+.console.output 
